@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648582297037",
+    "project_id": "tomorrowtwitter-91008",
+    "storage_bucket": "tomorrowtwitter-91008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648582297037:android:1a391da5ffbd3eeba08084",
+        "android_client_info": {
+          "package_name": "com.example.twitter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3EttB4YTaUA8iR4SE6ZQSxqH_O5Mzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
